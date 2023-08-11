@@ -1,5 +1,5 @@
 # config-repo
-config-repo
+> 一个 spring-cloud-config-server 的 git配置仓库。
 
 ## 优先级
 1. application.properties
