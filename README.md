@@ -45,5 +45,5 @@ spring.cloud.config.server.git.uri=https://github.com/chen-jiacheng/config-repo
 spring.application.name=some-service
 server.port=8080
 spring.profiles.active=dev
-spring.config.import: optional:configserver:http://127.0.0.1:8888
+spring.config.import=optional:configserver:http://127.0.0.1:8888
 ```
